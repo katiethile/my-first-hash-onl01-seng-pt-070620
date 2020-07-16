@@ -1,5 +1,5 @@
 def my_hash
-pets = {"dog" => 
+pets = {"dog" => "Benny", "cat" => "Mochi", "hamster" => "kiwi"}
 end
 
 
