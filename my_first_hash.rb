@@ -28,8 +28,7 @@ def adding
                   "oil paintings" => 3
                  }
                  
-shipping_manifest = ["muskets"] = "2" 
-shipping_manifest = ["gun powder"] = "4"
-puts shipping_manifest
-  end
+shipping_manifest = ["muskets"] = 2
+shipping_manifest = ["gun powder"] = 4
+puts "shipping_manifest"
 end
